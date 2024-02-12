@@ -19,7 +19,7 @@ Create a class called **Rational** that has two private data members: **mNumerat
 Create a file called **Rational.h** that will represent the converted UML diagram. The location for Rational.h is to be in the **include** folder.
 
 ---
-<b>Task #3: </b> Implament the Rational functions.
+<b>Task #3: </b> Implement the Rational functions.
 
 Create a file called **Rational.cpp** that is the definitions for the functions in Rational.h. The location for Rational.cpp is to be in the "src" folder.
 
@@ -27,6 +27,19 @@ Create a file called **Rational.cpp** that is the definitions for the functions 
 <b>Task #4: </b> Modify main.cpp
 
 In main.cpp you are to add a statement **#include "../include/Rational.h"** after all other #include statements. Then create a Rational object and call **write** which should print out the Rational **0/1**
+
+---
+<b>Task #5: </b> Modify main.cpp such that your program works as follows:
+
+      *** Rational Calculator ***
+
+      Enter rational #1: 2 / 3
+      Enter rational #2: 1 / 2
+      2 / 3 + 1 / 2 = 7 / 6
+      2 / 3 * 1 / 2 = 2 / 6
+
+      Program Completed
+---
 
 
 ## Commands
