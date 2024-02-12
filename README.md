@@ -35,6 +35,7 @@ In main.cpp you are to add a statement **#include "../include/Rational.h"** afte
 
       Enter rational #1: 2 / 3
       Enter rational #2: 1 / 2
+      
       2 / 3 + 1 / 2 = 7 / 6
       2 / 3 * 1 / 2 = 2 / 6
 
